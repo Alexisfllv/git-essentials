@@ -25,7 +25,7 @@ git config --global user.name "Tu Nombre"
 git config --global user.email "tuemail@example.com"
 ```
 **Tip:** Esta configuración se guarda en `~/.gitconfig` y se aplicará a todos tus proyectos.
-[📍 Mapa](#-mapa)
+### [📍 Mapa](#-mapa)
 
 ---
 
