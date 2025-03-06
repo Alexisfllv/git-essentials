@@ -4,7 +4,7 @@ Git es un sistema de control de versiones distribuido que permite gestionar el h
 
 ---
 
-## 📍 Mapa
+## 📍 Indice
 1. [📌 Configuración Inicial](#-1-configuración-inicial)
 2. [📂 Iniciar un Repositorio](#-2-iniciar-un-repositorio)
 3. [📊 Estados y Cambios](#-3-estados-y-cambios)
@@ -25,7 +25,7 @@ git config --global user.name "Tu Nombre"
 git config --global user.email "tuemail@example.com"
 ```
 **Tip:** Esta configuración se guarda en `~/.gitconfig` y se aplicará a todos tus proyectos.
-### [📍 Mapa](#-mapa)
+### [📍 Indice](#-indice)
 
 ---
 
