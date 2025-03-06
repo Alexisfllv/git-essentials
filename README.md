@@ -6,7 +6,7 @@ Git es un sistema de control de versiones distribuido que permite gestionar el h
 ---
 
 ## 📍 Mapa
-1. [📌 Configuración Inicial](#📌-1-configuración-inicial)
+1. [📌 Configuración Inicial](#-1-configuración-inicial)
 2. [📂 Iniciar un Repositorio](#📂-2-iniciar-un-repositorio)
 3. [📊 Estados y Cambios](#📊-3-estados-y-cambios)
 4. [🔍 Historial y Revisión](#🔍-4-historial-y-revisión)
