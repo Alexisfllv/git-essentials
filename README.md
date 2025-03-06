@@ -6,14 +6,15 @@ Git es un sistema de control de versiones distribuido que permite gestionar el h
 ---
 
 ## 📖 Índice
-1. [Configuración Inicial](#📌-1-configuración-inicial)
-2. [Iniciar un Repositorio](#📂-2-iniciar-un-repositorio)
-3. [Estados y Cambios](#📊-3-estados-y-cambios)
-4. [Historial y Revisión](#🔍-4-historial-y-revisión)
-5. [Ramas y Fusión](#🌿-5-ramas-y-fusión)
-6. [Trabajo con Repositorios Remotos](#🌍-6-trabajo-con-repositorios-remotos)
-7. [Restaurar Cambios](#🛠️-7-restaurar-cambios)
-8. [Comandos Avanzados](#⚙️-8-comandos-avanzados)
+1. [Configuración Inicial](#1-configuración-inicial)
+2. [Iniciar un Repositorio](#2-iniciar-un-repositorio)
+3. [Estados y Cambios](#3-estados-y-cambios)
+4. [Historial y Revisión](#4-historial-y-revisión)
+5. [Ramas y Fusión](#5-ramas-y-fusión)
+6. [Trabajo con Repositorios Remotos](#6-trabajo-con-repositorios-remotos)
+7. [Restaurar Cambios](#7-restaurar-cambios)
+8. [Comandos Avanzados](#8-comandos-avanzados)
+
 
 ---
 
