@@ -40,7 +40,7 @@ git init
 git clone <url_del_repositorio>
 ```
 **Nota:** `git clone` crea una copia exacta del repositorio en tu máquina.
-[📍 Mapa](#-mapa)
+### [📍 Indice](#-indice)
 
 ---
 
@@ -59,7 +59,7 @@ git add .          # Agregar todos los archivos
 git commit -m "Descripción del cambio"
 ```
 **Importante:** Un commit es como una fotografía del estado del proyecto en un momento específico.
-[📍 Mapa](#-mapa)
+### [📍 Indice](#-indice)
 
 ---
 
@@ -76,7 +76,7 @@ git diff            # Cambios sin agregar
 git diff --staged   # Cambios en el área de preparación
 ```
 **Sugerencia:** Usa `git log --graph --decorate --all --oneline` para ver un historial visual de los commits.
-[📍 Mapa](#-mapa)
+### [📍 Indice](#-indice)
 
 ---
 
@@ -97,6 +97,6 @@ git checkout nombre-de-la-rama
 git merge nombre-de-la-rama
 ```
 **Nota:** Antes de fusionar una rama, asegúrate de estar en la rama destino.
-[📍 Mapa](#-mapa)
+### [📍 Indice](#-indice)
 
 ---
