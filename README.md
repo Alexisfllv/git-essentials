@@ -19,6 +19,7 @@ Git es un sistema de control de versiones distribuido que permite gestionar el h
 ## 📌 1 Configuración Inicial
 Antes de empezar a trabajar con Git, es importante configurar tu identidad:
 
+### relacionar cuenta de git
 ```bash
 # Configurar usuario y correo
 git config --global user.name "Tu Nombre"
