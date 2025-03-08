@@ -5,21 +5,56 @@ Git es un sistema de control de versiones distribuido que permite gestionar el h
 ---
 
 ## 📍 Indice
-1. [📌 Configuración Inicial](#-1-configuración-inicial)
-2. [📂 Iniciar un Repositorio](#-2-iniciar-un-repositorio)
-3. [📊 Estados y Cambios](#-3-estados-y-cambios)
-4. [🔍 Historial y Revisión](#-4-historial-y-revisión)
-5. [🌿 Ramas y Fusión](#-5-ramas-y-fusión)
-6. [🌍 Trabajo con Repositorios Remotos](#-6-trabajo-con-repositorios-remotos)
-7. [🛠️ Restaurar Cambios](#-7-restaurar-cambios)
-8. [⚙️ Comandos Avanzados](#-8-comandos-avanzados)
+### 0. [📌 Instalación](#-0-instalación)
+### 1. [📌 Configuración Inicial](#-1-configuración-inicial)
+### 2. [📂 Iniciar un Repositorio](#-2-iniciar-un-repositorio)
+### 3. [📊 Estados y Cambios](#-3-estados-y-cambios)
+### 4. [🔍 Historial y Revisión](#-4-historial-y-revisión)
+### 5. [🌿 Ramas y Fusión](#-5-ramas-y-fusión)
+### 6. [🌍 Trabajo con Repositorios Remotos](#-6-trabajo-con-repositorios-remotos)
+### 7. [🛠️ Restaurar Cambios](#-7-restaurar-cambios)
+### 8. [⚙️ Comandos Avanzados](#-8-comandos-avanzados)
+
 
 ---
+
+## 📌 0 Instalación
+Instalación de Git en Mac y Windows
+
+### En Mac Verificar si esta instalado
+```bash
+git --version
+```
+Si Git está instalado, verás la versión. Si no, continúa con la instalación.
+
+### Instalar Git usando Homebrew 🍺
+```bash
+brew install git
+```
+Posteriormente verificar si se instalo correctamente
+
+### En Windows Verificar si esta instalado
+```bash
+git --version
+```
+Si Git está instalado, verás la versión. Si no, continúa con la instalación.
+
+### Descargar instalador de la pagina oficial
+```bash
+https://git-scm.com/downloads/win
+```
+Manten las opciones predeterminadas y usar Git Bash como terminal posteriomente verificar si se instalo correctamente
+
+
+### [📍 Indice](#-indice)
+
+---
+
 
 ## 📌 1 Configuración Inicial
 Antes de empezar a trabajar con Git, es importante configurar tu identidad:
 
-### relacionar cuenta de git
+### 1.1 relacionar cuenta de git
 ```bash
 # Configurar usuario y correo
 git config --global user.name "Tu Nombre"
