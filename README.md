@@ -31,19 +31,23 @@ Si Git está instalado, verás la versión. Si no, continúa con la instalación
 ```bash
 brew install git
 ```
-Posteriormente verificar si se instalo correctamente
+Si es una version anterior actualizar con.
+```bash
+brew upgrade git
+```
+Posteriormente verificar si se instalo correctamente.
 
 ### En Windows Verificar si esta instalado
 ```bash
 git --version
 ```
-Si Git está instalado, verás la versión. Si no, continúa con la instalación.
+Si no aparece nada o tengas una version anterior continuar con la instalacion.
 
 ### Descargar instalador de la pagina oficial
 ```bash
 https://git-scm.com/downloads/win
 ```
-Manten las opciones predeterminadas y usar Git Bash como terminal posteriomente verificar si se instalo correctamente
+Manten las opciones predeterminadas y usar Git Bash como terminal posteriomente verificar si se instalo correctamente.
 
 
 ### [📍 Indice](#-indice)
