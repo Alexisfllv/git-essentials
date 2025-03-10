@@ -56,15 +56,21 @@ Manten las opciones predeterminadas y usar Git Bash como terminal posteriomente 
 
 
 ## 📌 1 Configuración Inicial
-Antes de empezar a trabajar con Git, es importante configurar tu identidad:
 
-### 1.1 relacionar cuenta de git
+### Muestra los comando relacionados con `git config`
 ```bash
-# Configurar usuario y correo
+git --help config
+```
+
+### Configurar usuario
+```bash
 git config --global user.name "Tu Nombre"
+```
+
+### Configurar correo
+```bash
 git config --global user.email "tuemail@example.com"
 ```
-**Tip:** Esta configuración se guarda en `~/.gitconfig` y se aplicará a todos tus proyectos.
 ### [📍 Indice](#-indice)
 
 ---
