@@ -77,33 +77,22 @@ git config --global user.email "tuemail@example.com"
 
 ## 📂 2 Iniciar un Repositorio
 
-### Muestra los comando relacionados con `git config`
+### Inicializar un nuevo repositorio en la carpeta actual
 ```bash
-git --help config
-```
-
-### Configurar usuario
-```bash
-git config --global user.name "Tu Nombre"
-```
-
-### Configurar correo
-```bash
-git config --global user.email "tuemail@example.com"
-```
-### [📍 Indice](#-indice)
-
-Si quieres comenzar un nuevo proyecto con Git o clonar uno existente:
-
-```bash
-# Inicializar un nuevo repositorio en la carpeta actual
 git init
+```
 
-# Clonar un repositorio remoto
+### Mostrar el estado del repositorio
+```bash
+git status
+```
+
+### Clonar un repositorio remoto
+```bash
 git clone <url_del_repositorio>
 ```
-**Nota:** `git clone` crea una copia exacta del repositorio en tu máquina.
 ### [📍 Indice](#-indice)
+
 
 ---
 
